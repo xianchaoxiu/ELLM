@@ -3,9 +3,9 @@
 
 I currently focus on optimization for large language models including
 - [Surveys](#Surveys)
-- [Perception](#Pruning)
-- [Fine-Tuning](#Fine-Tuning)
+- [Pruning](#Pruning)
 - [Inference](#Inference)
+
 
 
 <strong> Last Update: 2025/04/08 </strong>
@@ -15,8 +15,10 @@ I currently focus on optimization for large language models including
 <a name="Surveys" />
 
 ## Surveys 
+- [2024] A Survey on Model Compression for Large Language Models, TACL [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00704/125482)] 
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
+- [2024] A Survey on Efficient Inference for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2404.14294)]
 
 
 
@@ -25,6 +27,7 @@ I currently focus on optimization for large language models including
 ## Pruning
 
 ### Structured Pruning
+- [2025] Pruning Large Language Models with Semi-Structural Adaptive Sparse Training, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34592)] 
 - [2025] SPAP: Structured Pruning via Alternating Optimization and Penalty Methods, arXiv [[Paper](https://arxiv.org/abs/2505.03373)] 
 - [2025] Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization, arXiv [[Paper](https://arxiv.org/abs/2503.09657)] 
 - [2025] Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing, ICLR [[Paper](https://arxiv.org/abs/2502.15618)]
@@ -49,6 +52,7 @@ I currently focus on optimization for large language models including
 - [2023] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning, NeurIPS [[Paper](https://arxiv.org/abs/2310.06694)] [[Code](https://github.com/princeton-nlp/LLM-Shearing)]
 - [2023] LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning, arXiv [[Paper](https://doi.org/10.48550/arXiv.2305.18403)]
 - [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Code](https://github.com/yxli2123/LoSparse)]
+
   
 ### Unstructured Pruning
 - [2025] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, ICLR [[Paper](https://openreview.net/forum?id=DwiwOcK1B7)]  [[Code](https://github.com/usamec/double_sparse)]
@@ -62,17 +66,17 @@ I currently focus on optimization for large language models including
 - [2023] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2310.09499v1.pdf)]
 
 
-
-<a name="Fine-Tuning" />
-
-## Fine-Tuning
-
-
-
 <a name="Inference" />
 
 ## Inference
 
-- [2024] Visual Mamba: A Survey and New Outlooks, arXiv [[Paper](https://arxiv.org/abs/2404.18861v3)]  [[Code](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] 
+- [2024] Mamba: Linear-Time Sequence Modeling with Selective State Spaces, COLM [[Paper](https://openreview.net/forum?id=tEYskw1VY2#discussion)]  [[Code](https://github.com/state-spaces/mamba)] 
+
+
+
+
+
+
+
 
 
