@@ -4,8 +4,7 @@
 I currently focus on optimization for large language models including
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
-- [Inference](#Inference)
-- [Tools](#Tools)
+- [Fine-Tuning](#Fine-Tuning)
 
 
 <strong> Last Update: 2025/04/08 </strong>
@@ -18,7 +17,6 @@ I currently focus on optimization for large language models including
 - [2024] A Survey on Model Compression for Large Language Models, TACL [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00704/125482)] 
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
-- [2024] A Survey on Efficient Inference for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2404.14294)]
 
 
 
@@ -66,18 +64,12 @@ I currently focus on optimization for large language models including
 - [2023] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2310.09499v1.pdf)]
 
 
-<a name="Inference" />
-
-## Inference
-
-- [2024] Mamba: Linear-Time Sequence Modeling with Selective State Spaces, COLM [[Paper](https://openreview.net/forum?id=tEYskw1VY2#discussion)]  [[Code](https://github.com/state-spaces/mamba)] 
 
 
+<a name="Fine-Tuning" />
 
-<a name="Tools" />
-
-## Tools
-- Efficient-LLMs-Survey [[Link](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
+## Fine-Tuning
+- [2022] LoRA: Low-Rank Adaptation of Large Language Models, ICLR [[Paper](https://openreview.net/forum?id=nZeVKeeFYf9)]  [[Code](https://github.com/microsoft/LoRA)]
 
 
 
