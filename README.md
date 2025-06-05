@@ -5,7 +5,7 @@ I currently focus on optimization for large language models including
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
 - [Inference](#Inference)
-
+- [Tools](#Tools)
 
 
 <strong> Last Update: 2025/04/08 </strong>
@@ -74,7 +74,10 @@ I currently focus on optimization for large language models including
 
 
 
+<a name="Tools" />
 
+## Tools
+- Efficient-LLMs-Survey [[Link](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 
 
 
