@@ -1,4 +1,4 @@
-# Optimization for Large Language Models (OPT4LLM)
+# Optimization for Large Language Models
 
 
 I currently focus on optimization for large language models including
