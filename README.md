@@ -5,7 +5,7 @@ I currently focus on optimization for large language models including
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
 - [Fine-Tuning](#Fine-Tuning)
-
+- [Mamba](#Mamba)
 
 <strong> Last Update: 2025/04/08 </strong>
 
@@ -73,5 +73,9 @@ I currently focus on optimization for large language models including
 
 
 
+<a name="Mamba" />
+
+## Mamba
+- [2024] Mamba: Linear-Time Sequence Modeling with Selective State Spaces, COLM [[Paper](https://openreview.net/forum?id=tEYskw1VY2#discussion)]  [[Code](https://github.com/state-spaces/mamba)] 
 
 
