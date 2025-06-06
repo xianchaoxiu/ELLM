@@ -4,7 +4,6 @@
 I currently focus on optimization for large language models including
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
-- [Fine-Tuning](#Fine-Tuning)
 - [Mamba](#Mamba)
 
 <strong> Last Update: 2025/04/08 </strong>
@@ -64,12 +63,6 @@ I currently focus on optimization for large language models including
 - [2023] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2310.09499v1.pdf)]
 
 
-
-
-<a name="Fine-Tuning" />
-
-## Fine-Tuning
-- [2022] LoRA: Low-Rank Adaptation of Large Language Models, ICLR [[Paper](https://openreview.net/forum?id=nZeVKeeFYf9)]  [[Code](https://github.com/microsoft/LoRA)]
 
 
 
