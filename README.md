@@ -1,12 +1,11 @@
-# Optimization for Large Language Models
+# Pruning for Large Language Models
 
 
-I currently focus on model compression for large language models including
+I currently focus on pruning for large language models including
 - [Surveys](#Surveys)
-- [Pruning](#Pruning)
-- [Quantization](#Quantization)
-- [Knowledge Distillation](#Knowledge-Distillation)
-- [Low-Rank Approximation](#Low-Rank-Approximation)
+- [Unstructured Pruning](#Unstructured-Pruning)
+- [Structured Pruning](#Structured-Pruning)
+- [Semi-Structured Pruning](#Semi-Structured-Pruning)
   
 <strong> Last Update: 2025/06/07 </strong>
 
@@ -24,11 +23,9 @@ I currently focus on model compression for large language models including
 
 
 
-<a name="Pruning" />
+<a name="Unstructured-Pruning" />
 
-## Pruning
-
-### Unstructured Pruning
+##  Unstructured Pruning
 - [2025] Dynamic Superblock Pruning for Fast Learned Sparse Retrieval, SIGIR [[Paper](https://arxiv.org/abs/2504.17045)]  [[Code](https://github.com/thefxperson/hierarchical_pruning)]
 - [2025] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, ICLR [[Paper](https://openreview.net/forum?id=DwiwOcK1B7)]  [[Code](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Code](https://github.com/fmfi-compbio/admm-pruning)]
@@ -42,8 +39,9 @@ I currently focus on model compression for large language models including
 
 
 
+<a name="structured-Pruning" />
 
-### Structured Pruning
+## Structured Pruning
 - [2025] SPAP: Structured Pruning via Alternating Optimization and Penalty Methods, arXiv [[Paper](https://arxiv.org/abs/2505.03373)] 
 - [2025] Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization, arXiv [[Paper](https://arxiv.org/abs/2503.09657)] 
 - [2025] Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing, ICLR [[Paper](https://arxiv.org/abs/2502.15618)]
@@ -71,28 +69,7 @@ I currently focus on model compression for large language models including
 
   
 
-### Semi-Structured Pruning
+<a name="Semi-Structured-Pruning" />
+
+## Semi-Structured Pruning
 - [2025] Pruning Large Language Models with Semi-Structural Adaptive Sparse Training, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34592)] 
-
-
-
-<a name="Quantization" />
-
-## Quantization
-- [2025] Zero-shot Quantization: A Comprehensive Survey, IJCAI [[Paper](https://arxiv.org/abs/2505.09188)] 
-- [2024] VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models, EMNLP [[Paper](https://arxiv.org/abs/2409.17066)]
-
-
-
-<a name="Knowledge-Distillation" />
-
-## Knowledge Distillation
-
-- [2025] Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2504.13825)] 
-
-
-<a name="Low-Rank-Approximation" />
-
-## Low-Rank Approximation
-- [2025] LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation, arXiv [[Paper](https://arxiv.org/pdf/2504.07448)]  [[Code](https://github.com/juzhengz/LoRI)] 
-
