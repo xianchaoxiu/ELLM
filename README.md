@@ -1,12 +1,12 @@
 # Optimization for Large Language Models
 
 
-I currently focus on optimization for large language models including
+I currently focus on model compression for large language models including
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
 - [Quantization](#Quantization)
 - [Knowledge Distillation](#Knowledge-Distillation)
-- [Low-Rank Factorization](#Low-Rank-Factorization)
+- [Low-Rank Approximation](#Low-Rank-Approximation)
   
 <strong> Last Update: 2025/06/07 </strong>
 
@@ -91,8 +91,8 @@ I currently focus on optimization for large language models including
 - [2025] Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2504.13825)] 
 
 
-<a name="Low-Rank-Factorization" />
+<a name="Low-Rank-Approximation" />
 
-## Low-Rank Factorization
+## Low-Rank Approximation
 - [2025] LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation, arXiv [[Paper](https://arxiv.org/pdf/2504.07448)]  [[Code](https://github.com/juzhengz/LoRI)] 
 
