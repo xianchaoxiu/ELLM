@@ -20,6 +20,9 @@ I currently focus on pruning for large language models including
 - [2024] A Survey on Model Compression for Large Language Models, TACL [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00704/125482)] 
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
+- [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325)] [[Code](https://github.com/hrcheng1066/awesome-pruning)]
+- [2024] Structured Pruning for Deep Convolutional Neural Networks: A Survey, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10330640)] [[Code](https://github.com/he-y/Awesome-Pruning)]
+
 
 
 <a name="structured-Pruning" />
@@ -49,7 +52,9 @@ I currently focus on pruning for large language models including
 - [2023] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning, NeurIPS [[Paper](https://arxiv.org/abs/2310.06694)] [[Code](https://github.com/princeton-nlp/LLM-Shearing)]
 - [2023] LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning, arXiv [[Paper](https://doi.org/10.48550/arXiv.2305.18403)]
 - [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Code](https://github.com/yxli2123/LoSparse)]
-
+- [2019] Importance Estimation for Neural Network Pruning, CVPR  [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Molchanov_Importance_Estimation_for_Neural_Network_Pruning_CVPR_2019_paper.html)]
+- [2016] Learning Structured Sparsity in Deep Neural Networks, NIPS  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/41bfd20a38bb1b0bec75acf0845530a7-Abstract.html)]
+- [2015] Learning both Weights and Connections for Efficient Neural Network, NIPS  [[Paper](https://proceedings.neurips.cc/paper/2015/hash/ae0eb3eed39d2bcef4622b2499a05fe6-Abstract.html)]
 
 
 <a name="Unstructured-Pruning" />
@@ -59,13 +64,14 @@ I currently focus on pruning for large language models including
 - [2025] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, ICLR [[Paper](https://openreview.net/forum?id=DwiwOcK1B7)]  [[Code](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Code](https://github.com/fmfi-compbio/admm-pruning)]
 - [2024] A Simple and Effective Pruning Approach for Large Language Models, ICLR [[Paper](https://arxiv.org/abs/2306.11695)] [[Code](https://github.com/locuslab/wanda)]
+- [2024] Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs, ICLR [[Paper](https://openreview.net/forum?id=1ndDmZdT4g)]  [[Code](https://github.com/zyxxmu/DSnoT)]
 - [2024] Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models, ICML [[Paper](https://openreview.net/forum?id=1tRLxQzdep)] 
 - [2024] MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models, NeurIPS [[Paper](https://arxiv.org/abs/2409.17481)] 
 - [2024] Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs, ICLR [[Paper](https://arxiv.org/abs/2310.08915)] 
 - [2024] A Convex-optimization-based Layer-wise Post-training Pruner for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2408.03728)]
 - [2023] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot, ICML [[Paper](https://arxiv.org/abs/2301.00774)] [[Code](https://github.com/IST-DASLab/sparsegpt)]
 - [2023] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2310.09499v1.pdf)]
-
+- [2023] Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity, VLDB [[Paper](https://dl.acm.org/doi/abs/10.14778/3626292.3626303)]
 
 
 
@@ -74,4 +80,12 @@ I currently focus on pruning for large language models including
 <a name="Semi-Structured-Pruning" />
 
 ## Semi-Structured Pruning
-- [2025] Pruning Large Language Models with Semi-Structural Adaptive Sparse Training, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34592)] 
+- [2025] Progressive Binarization with Semi-Structured Pruning for LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.01705)] [[Code](https://github.com/XIANGLONGYAN/PBS2P)]
+- [2025] Pruning Large Language Models with Semi-Structural Adaptive Sparse Training, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34592)]
+- [2024] Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2405.01943)]
+- [2024] MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models, NeurIPS [[Paper](https://openreview.net/forum?id=Llu9nJal7b)]  [[Code](https://github.com/NVlabs/MaskLLM)]
+- [2024] LPViT: Low-Power Semi-structured Pruning for Vision Transformers, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73209-6_16)]
+- [2023] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity, arXiv [[Paper](https://arxiv.org/abs/2310.15929)]
+
+
+
