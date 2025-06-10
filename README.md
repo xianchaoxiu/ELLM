@@ -53,7 +53,7 @@ I currently focus on pruning for large language models including
 - [2023] LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning, arXiv [[Paper](https://doi.org/10.48550/arXiv.2305.18403)]
 - [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Code](https://github.com/yxli2123/LoSparse)]
 - [2019] Importance Estimation for Neural Network Pruning, CVPR  [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Molchanov_Importance_Estimation_for_Neural_Network_Pruning_CVPR_2019_paper.html)]
-- [2016] Learning Structured Sparsity in Deep Neural Networks, NIPS  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/41bfd20a38bb1b0bec75acf0845530a7-Abstract.html)]
+- [2016] Learning Structured Sparsity in Deep Neural Networks, NIPS  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/41bfd20a38bb1b0bec75acf0845530a7-Abstract.html)] [[Code](https://github.com/wenwei202/caffe/tree/scnn)]
 - [2015] Learning both Weights and Connections for Efficient Neural Network, NIPS  [[Paper](https://proceedings.neurips.cc/paper/2015/hash/ae0eb3eed39d2bcef4622b2499a05fe6-Abstract.html)]
 
 
