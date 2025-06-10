@@ -28,6 +28,7 @@ I currently focus on pruning for large language models including
 <a name="structured-Pruning" />
 
 ## Structured Pruning
+- [2025] Sample-aware Adaptive Structured Pruning for Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33973)] [[Code]( https://github.com/JunKong5/AdaPruner)]
 - [2025] SPAP: Structured Pruning via Alternating Optimization and Penalty Methods, arXiv [[Paper](https://arxiv.org/abs/2505.03373)] 
 - [2025] Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization, arXiv [[Paper](https://arxiv.org/abs/2503.09657)] 
 - [2025] Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing, ICLR [[Paper](https://arxiv.org/abs/2502.15618)]
@@ -62,6 +63,7 @@ I currently focus on pruning for large language models including
 ##  Unstructured Pruning
 - [2025] Dynamic Superblock Pruning for Fast Learned Sparse Retrieval, SIGIR [[Paper](https://arxiv.org/abs/2504.17045)]  [[Code](https://github.com/thefxperson/hierarchical_pruning)]
 - [2025] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, ICLR [[Paper](https://openreview.net/forum?id=DwiwOcK1B7)]  [[Code](https://github.com/usamec/double_sparse)]
+- [2024] MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations, arXiv [[Paper](https://arxiv.org/abs/2406.07017)]  [[Code](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Code](https://github.com/fmfi-compbio/admm-pruning)]
 - [2024] A Simple and Effective Pruning Approach for Large Language Models, ICLR [[Paper](https://arxiv.org/abs/2306.11695)] [[Code](https://github.com/locuslab/wanda)]
 - [2024] Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs, ICLR [[Paper](https://openreview.net/forum?id=1ndDmZdT4g)]  [[Code](https://github.com/zyxxmu/DSnoT)]
