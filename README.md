@@ -84,12 +84,17 @@ I currently focus on pruning for large language models including
 <a name="Semi-Structured-Pruning" />
 
 ## Semi-Structured Pruning
+
+
+
 - [2025] Progressive Binarization with Semi-Structured Pruning for LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.01705)] [[Code](https://github.com/XIANGLONGYAN/PBS2P)]
 - [2025] Pruning Large Language Models with Semi-Structural Adaptive Sparse Training, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34592)]
+- [2024] ADMM Based Semi-Structured Pattern Pruning Framework for Transformer, AIoTC [[Paper](https://ieeexplore.ieee.org/abstract/document/10748287)]
 - [2024] Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2405.01943)]
 - [2024] MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models, NeurIPS [[Paper](https://openreview.net/forum?id=Llu9nJal7b)]  [[Code](https://github.com/NVlabs/MaskLLM)]
 - [2024] LPViT: Low-Power Semi-structured Pruning for Vision Transformers, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73209-6_16)]
 - [2023] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity, arXiv [[Paper](https://arxiv.org/abs/2310.15929)]
+- [2021] NxMTransformer: Semi-Structured Sparsification for Natural Language Understanding via ADMM, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/0e4f5cc9f4f3f7f1651a6b9f9214e5b1-Abstract.html)]
 
 
 
