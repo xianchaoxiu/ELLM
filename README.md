@@ -61,6 +61,8 @@ I currently focus on pruning for large language models including
 <a name="Unstructured-Pruning" />
 
 ##  Unstructured Pruning
+
+- [2025] Wanda++: Pruning Large Language Models via Regional Gradients, ACL [[Paper](https://arxiv.org/abs/2503.04992)]
 - [2025] Dynamic Superblock Pruning for Fast Learned Sparse Retrieval, SIGIR [[Paper](https://arxiv.org/abs/2504.17045)]  [[Code](https://github.com/thefxperson/hierarchical_pruning)]
 - [2025] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, ICLR [[Paper](https://openreview.net/forum?id=DwiwOcK1B7)]  [[Code](https://github.com/usamec/double_sparse)]
 - [2024] MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations, arXiv [[Paper](https://arxiv.org/abs/2406.07017)]  [[Code](https://github.com/usamec/double_sparse)]
