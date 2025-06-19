@@ -1,19 +1,21 @@
-# Pruning for Large Language Models
+# Efficent Large Language Models
 
 
-I currently focus on pruning for large language models including
-- [Surveys](#Surveys)
-- [Structured Pruning](#Structured-Pruning)
-- [Unstructured Pruning](#Unstructured-Pruning)
-- [Semi-Structured Pruning](#Semi-Structured-Pruning)
-  
+I currently focus on efficient large language models including
+- [Pruning](#Pruning)
+- [Mamba](#Mamba)
+- 
 <strong> Last Update: 2025/06/07 </strong>
 
 
 
-<a name="Surveys" />
 
-## Surveys 
+
+<a name="Pruning" />
+
+## Pruning
+
+#### Surveys 
 - [2025] A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond, arXiv [[Paper](https://arxiv.org/pdf/2503.21614)] [[Code](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)]
 - [2025] A Survey on Efficient Vision-Language Models, arXiv [[Paper](https://arxiv.org/abs/2504.09724)]
 - [2025] Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2503.16585)]
@@ -22,12 +24,8 @@ I currently focus on pruning for large language models including
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325)] [[Code](https://github.com/hrcheng1066/awesome-pruning)]
 - [2024] Structured Pruning for Deep Convolutional Neural Networks: A Survey, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10330640)] [[Code](https://github.com/he-y/Awesome-Pruning)]
-
-
-
-<a name="structured-Pruning" />
-
-## Structured Pruning
+  
+#### Structured Pruning
 - [2025] Sample-aware Adaptive Structured Pruning for Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33973)] [[Code]( https://github.com/JunKong5/AdaPruner)]
 - [2025] SPAP: Structured Pruning via Alternating Optimization and Penalty Methods, arXiv [[Paper](https://arxiv.org/abs/2505.03373)] 
 - [2025] Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization, arXiv [[Paper](https://arxiv.org/abs/2503.09657)] 
@@ -59,9 +57,8 @@ I currently focus on pruning for large language models including
 - [2015] Learning both Weights and Connections for Efficient Neural Network, NIPS  [[Paper](https://proceedings.neurips.cc/paper/2015/hash/ae0eb3eed39d2bcef4622b2499a05fe6-Abstract.html)]
 
 
-<a name="Unstructured-Pruning" />
 
-##  Unstructured Pruning
+####  Unstructured Pruning
 
 - [2025] Wanda++: Pruning Large Language Models via Regional Gradients, ACL [[Paper](https://arxiv.org/abs/2503.04992)]
 - [2025] Dynamic Superblock Pruning for Fast Learned Sparse Retrieval, SIGIR [[Paper](https://arxiv.org/abs/2504.17045)]  [[Code](https://github.com/thefxperson/hierarchical_pruning)]
@@ -82,9 +79,8 @@ I currently focus on pruning for large language models including
 
   
 
-<a name="Semi-Structured-Pruning" />
 
-## Semi-Structured Pruning
+#### Semi-Structured Pruning
 
 
 
@@ -99,3 +95,29 @@ I currently focus on pruning for large language models including
 
 
 
+<a name="Mamba" />
+
+## Mamba
+
+
+#### Surveys 
+- [2025] A Survey on Mamba Architecture for Vision Applications, arXiv [[Paper](https://arxiv.org/abs/2502.07161)] 
+- [2024] Vision Mamba: A Comprehensive Survey and Taxonomy, arXiv [[Paper](https://arxiv.org/abs/2405.04404)] [[Code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)]
+- [2024] Visual Mamba: A Survey and New Outlooks, arXiv [[Paper](https://arxiv.org/abs/2404.18861)] 
+
+
+
+
+#### Semantic Segmentation
+
+- [2025] Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook, arXiv [[Paper](https://arxiv.org/abs/2505.00630)] [[Code](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing)]
+- [2025] U-Shape Mamba: State Space Model for Faster Diffusion, CVPR [[Paper](https://arxiv.org/abs/2504.13499)]  [[Code](https://github.com/ErgastiAlex/U-Shape-Mamba)]
+- [2025] MambaLiteSR: Image Super-Resolution with Low-Rank Mamba Using Knowledge Distillation, ISQED [[Paper](https://ieeexplore.ieee.org/abstract/document/11014425)] 
+- [2025] Visual Attention Exploration in Vision-Based Mamba Models, arXiv [[Paper](https://arxiv.org/abs/2502.20764)] 
+- [2025] Robust Tracking via Mamba-based Context-aware Token Learning, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32943)] [[Code](https://github.com/GXNU-ZhongLab/TemTrack)] 
+- [2025] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Mamba_as_a_Bridge_Where_Vision_Foundation_Models_Meet_Vision_CVPR_2025_paper.html)] [[Code](https://github.com/devinxzhang/MFuser)] 
+- [2025] MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling, arXiv [[Paper](https://arxiv.org/abs/2503.13440)] [[Code](https://github.com/hustvl/MaTVLM)] 
+- [2025] Spatial-Mamba: Effective Visual State Space Models via Structure-aware State Fusion, ICLR [[Paper](https://arxiv.org/abs/2410.15091)]  [[Code](https://github.com/EdwardChasel/Spatial-Mamba)]
+- [2025] MambaVision: A Hybrid Mamba-Transformer Vision Backbone, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Hatamizadeh_MambaVision_A_Hybrid_Mamba-Transformer_Vision_Backbone_CVPR_2025_paper.html)]  [[Code](https://github.com/NVlabs/MambaVision)]
+- [2024] A Hybrid Transformer-Mamba Network for Single Image Deraining, arXiv [[Paper](https://arxiv.org/abs/2409.00410)]
+- [2024] Mamba: Linear-Time Sequence Modeling with Selective State Spaces, COLM [[Paper](https://openreview.net/forum?id=tEYskw1VY2#discussion)]  [[Code](https://github.com/state-spaces/mamba)] 
