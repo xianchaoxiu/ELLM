@@ -90,12 +90,3 @@ I currently focus on pruning for large language models including
 - [2023] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity, arXiv [[Paper](https://arxiv.org/abs/2310.15929)]
 - [2021] NxMTransformer: Semi-Structured Sparsification for Natural Language Understanding via ADMM, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/0e4f5cc9f4f3f7f1651a6b9f9214e5b1-Abstract.html)]
 
-
-## Ackonwledgements
-
-If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a **pull request** using the following markdown format.
-
-```markdown
-[Year] Title, Journal/Conference/Preprint, [[Paper](link)] [[Code](link)]
-```
-
