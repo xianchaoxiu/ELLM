@@ -15,6 +15,7 @@ I currently focus on pruning for large language models including
 <a name="Surveys" />
 
 ## Surveys 
+- [2025] Efficient Compressing and Tuning Methods for Large Language Models: A Systematic Literature Review, ACM  [[Paper](https://doi.org/10.1145/3728636)]
 - [2025] A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond, arXiv [[Paper](https://arxiv.org/pdf/2503.21614)] [[Code](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)]
 - [2025] A Survey on Efficient Vision-Language Models, arXiv [[Paper](https://arxiv.org/abs/2504.09724)]
 - [2025] Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2503.16585)]
