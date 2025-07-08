@@ -1,5 +1,5 @@
 # Pruning for Large Language Models
-#
+
 
 I currently focus on pruning for large language models including
 - [Surveys](#Surveys)
@@ -29,6 +29,7 @@ I currently focus on pruning for large language models including
  <a name="Structured-Pruning" />
  
 ## Structured Pruning
+- [2025] EvoP: Robust LLM Inference via Evolutionary Pruning, arXiv [[Paper](https://arxiv.org/abs/2502.14910)] 
 - [2025] Sample-aware Adaptive Structured Pruning for Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33973)] [[Code]( https://github.com/JunKong5/AdaPruner)]
 - [2025] SPAP: Structured Pruning via Alternating Optimization and Penalty Methods, arXiv [[Paper](https://arxiv.org/abs/2505.03373)] 
 - [2025] Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization, arXiv [[Paper](https://arxiv.org/abs/2503.09657)] 
