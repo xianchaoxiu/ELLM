@@ -15,6 +15,7 @@ I currently focus on pruning for large language models including
 <a name="Surveys" />
 
 ## Surveys 
+- [2025] Efficient LLMs for Edge Devices: Pruning, Quantization, and Distillation Techniques, IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10968787)]
 - [2025] Efficient Compressing and Tuning Methods for Large Language Models: A Systematic Literature Review, ACM  [[Paper](https://doi.org/10.1145/3728636)]
 - [2025] A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond, arXiv [[Paper](https://arxiv.org/pdf/2503.21614)] [[Code](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)]
 - [2025] A Survey on Efficient Vision-Language Models, arXiv [[Paper](https://arxiv.org/abs/2504.09724)]
@@ -29,6 +30,9 @@ I currently focus on pruning for large language models including
  <a name="Structured-Pruning" />
  
 ## Structured Pruning
+- [2025] 2SSP: A Two-Stage Framework for Structured Pruning of LLMs, arXiv [[Paper](https://arxiv.org/abs/2501.17771)] 
+- [2025] SwiftPrune: Hessian-Free Weight Pruning for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2501.16376)] 
+- [2025] PAT: Pruning-Aware Tuning for Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34649)] 
 - [2025] KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models, IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10889000)] 
 - [2025] EvoP: Robust LLM Inference via Evolutionary Pruning, arXiv [[Paper](https://arxiv.org/abs/2502.14910)] 
 - [2025] Sample-aware Adaptive Structured Pruning for Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33973)] [[Code]( https://github.com/JunKong5/AdaPruner)]
